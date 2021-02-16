@@ -1,0 +1,235 @@
+header{
+    color:white;
+    text-align: center;
+    font-size: 20px;
+    background-color: rgb(17, 124, 143);
+     padding:2px;
+    
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    inline-size: auto;
+}
+
+header{
+    display: block;
+}
+h1{
+    display: block;
+    font-size: 2em;
+    margin-block-start: 0.67em;
+    margin-block-end: 0.67em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    
+}
+
+nav{
+    background-color: #333 ;
+    text-align: left;
+    font-size: 20px;
+    padding: 20px;
+}
+
+a[href]{
+    color:white;
+    text-decoration: none;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+.navA:hover{
+    color: gainsboro;
+    font-size: 30px;
+    text-shadow: 0px 4px 5px gray;
+    margin: 2px;
+    border: 2px solid white;
+    padding: 8px;
+}
+body{
+    background-color: rgba(163, 241, 225, 0.37);
+    
+}
+.avimg{
+    margin-left: 550px;
+    margin-bottom: 10px;
+}
+
+.upvideos{
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 480px;
+    color: black;
+    font-family: 'Happy Monkey', cursive;
+    font-size: 42px;
+    letter-spacing: -6px;
+    
+}
+span span{
+    transition: all 0.3s ease;
+}
+.eight{
+    margin-right: 5px;
+    
+}
+.one:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.two:hover{
+    font-size: 50px;
+    
+}
+
+.three:hover{
+    font-size: 50px;
+
+}
+.four:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.five:hover{
+    font-size: 50px;
+    
+}
+.six:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.seven:hover{
+    font-size: 50px;
+}
+.eight:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.nine:hover{
+    font-size: 50px;
+}
+.ten:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.eleven:hover{
+    font-size: 50px;
+}
+.twelve:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.thirteen:hover{
+    font-size: 50px;
+}
+.fourteen:hover{
+    font-size: 50px;
+    font-style: italic;
+    color: blue;
+}
+.vid{
+    margin-top: 40px;
+}
+.ltupvid{
+    text-align: center;
+    margin-right: 80px;
+    margin-left: 480px;
+    
+    color: black;
+    font-family: 'Happy Monkey', cursive;
+    font-size: 42px;
+    letter-spacing: -6px; 
+}
+.upvideos1{
+    text-align: center;
+    margin-right: 20px;
+    margin-left: 500px;
+    color: black;
+    font-family: 'Happy Monkey', cursive;
+    font-size: 42px;
+    letter-spacing: -6px;
+    
+}
+
+.ifvid1{
+    position: relative; left: 420px; right: 49px;
+    
+}
+.ifvid{
+    position: relative; left: 38px; right: 920px;
+}
+.trenimg{
+    border: 1px solid black;
+    
+}
+.devppic{
+    width: 100px;
+    margin-top: 70px;
+    margin-left: 600px;
+    border-radius: 50%;
+}
+.devptext{
+    font-family: 'Happy Monkey';
+    margin-left: 590px;
+    color: royalblue;
+    
+}
+.devptext:hover{
+    animation: shake 2s ; 
+    color: black;
+} 
+
+@keyframes shake{ 
+	0%{ 
+	transform: translateX(0) 
+	} 
+	25%{ 
+	transform: translateX(25px); 
+	} 
+	
+	50%{ 
+	transform: translateX(-25px); 
+	} 
+	100%{ 
+	transform: translateX(0px); 
+	} 
+}
+.devpAutotext{
+    font-family:'Happy Monkey' ;
+    margin-left: 32%;
+}
+
+a[href="https://muit.in/"]{
+    color: black;
+}
+a[href="https://muit.in/"]:hover{
+    text-decoration: underline;
+}
+a[href="https://www.linkedin.com/in/adeeb-ahmad-b148951b9/"]:hover{
+    text-decoration: underline;
+    color: black;
+}
+a[href="https://www.linkedin.com/in/adeeb-ahmad-b148951b9/"]{
+    color:blue;
+}
+
+a[href="https://www.codechef.com/users/adeeb_sid1234"]:hover{
+    text-decoration: underline;
+    color: black;
+}
+a[href="https://www.codechef.com/users/adeeb_sid1234"]{
+    color: blue;
+}
+.profile{
+    padding-left:570px;
+}
+a[href="social_media.html"]{
+    color: blue;
+}
+a[href="social_media.html"]:hover{
+    text-decoration: underline;
+    color: black;
+}
